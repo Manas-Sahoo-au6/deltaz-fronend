@@ -1,0 +1,30 @@
+#components-layout-demo-side .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff !important;
+  }
+  .ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected{
+    background-color: rgb(4, 85, 38) !important;
+  }
+  .ant-layout-sider{
+    background-color: rgb(6, 165, 72) !important;
+  }
+  .ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub {
+    background-color: rgb(6, 165, 72) !important;
+  }
+  .ant-layout-sider-trigger{
+    background-color: rgb(6, 165, 72) !important;
+
+  }
+  .MuiButton-containedPrimary {
+    background-color: rgb(6, 165, 72) !important;
+
+  }
+  .MuiSwitch-colorPrimary.Mui-checked  {
+    color: rgb(6, 165, 72) !important;
+
+  }
